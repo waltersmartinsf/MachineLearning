@@ -3,7 +3,7 @@ Scripts to perform or be an example to Machine Learning Approach.
 
 ---
 
-For Python, there are some packages that can use to create a machine learning script/project.
+For Python, there are some packages that can be used to create a machine learning script/project.
 
 Some useful packages are:
 
